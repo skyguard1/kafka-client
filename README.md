@@ -1,1 +1,1 @@
-a kafka client
+A kafka client
